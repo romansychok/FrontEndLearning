@@ -20,6 +20,16 @@ header {
     height: 100vh;
 }
 
+
+footer{
+    margin-top: 65px;
+    margin-bottom: 75px;
+    color: #777777;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
 .container{
     width: 930px;
     margin: 0 auto;
@@ -194,8 +204,45 @@ h1{
     padding-left: 55px;
 }
 
-.july_2010{
+.date{
     margin-top: 5px;
     margin-bottom: 0px;
 }
 
+
+.about2{
+    width: 970px;
+    padding-bottom: 80px;
+    /*float: left;*/
+}
+
+.about2 h3{
+    font-size: 18px;
+    float: right;
+    line-height: 1.55em;
+    margin-left: 32px;
+    margin-top: 0px;
+
+
+}
+
+.about2 p {
+    color: #777777;
+    font-size: 14px;
+    line-height: 1.55em;
+    float: right;
+    margin-top: 0px;
+
+}
+
+.about2 img{
+    float: left;
+    padding-right: 92px;
+    margin-left: 388px;
+
+}
+
+.date2{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
